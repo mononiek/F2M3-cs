@@ -1,0 +1,13 @@
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\bin\Debug\netcoreapp3.1\Les-01-C.exe
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\bin\Debug\netcoreapp3.1\Les-01-C.deps.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\bin\Debug\netcoreapp3.1\Les-01-C.runtimeconfig.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\bin\Debug\netcoreapp3.1\Les-01-C.runtimeconfig.dev.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\bin\Debug\netcoreapp3.1\Les-01-C.dll
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\bin\Debug\netcoreapp3.1\Les-01-C.pdb
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\obj\Debug\netcoreapp3.1\Les-01-C.csprojAssemblyReference.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\obj\Debug\netcoreapp3.1\Les-01-C.AssemblyInfoInputs.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\obj\Debug\netcoreapp3.1\Les-01-C.AssemblyInfo.cs
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\obj\Debug\netcoreapp3.1\Les-01-C.csproj.CoreCompileInputs.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\obj\Debug\netcoreapp3.1\Les-01-C.dll
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\obj\Debug\netcoreapp3.1\Les-01-C.pdb
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\K-F2M3\C#\Les-01-C\Les-01-C\obj\Debug\netcoreapp3.1\Les-01-C.genruntimeconfig.cache
