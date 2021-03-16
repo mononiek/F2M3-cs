@@ -1,0 +1,13 @@
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\bin\Debug\netcoreapp3.1\Tijd-Op-Scherm.exe
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\bin\Debug\netcoreapp3.1\Tijd-Op-Scherm.deps.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\bin\Debug\netcoreapp3.1\Tijd-Op-Scherm.runtimeconfig.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\bin\Debug\netcoreapp3.1\Tijd-Op-Scherm.runtimeconfig.dev.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\bin\Debug\netcoreapp3.1\Tijd-Op-Scherm.dll
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\bin\Debug\netcoreapp3.1\Tijd-Op-Scherm.pdb
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\obj\Debug\netcoreapp3.1\Tijd-Op-Scherm.csprojAssemblyReference.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\obj\Debug\netcoreapp3.1\Tijd-Op-Scherm.AssemblyInfoInputs.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\obj\Debug\netcoreapp3.1\Tijd-Op-Scherm.AssemblyInfo.cs
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\obj\Debug\netcoreapp3.1\Tijd-Op-Scherm.csproj.CoreCompileInputs.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\obj\Debug\netcoreapp3.1\Tijd-Op-Scherm.dll
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\obj\Debug\netcoreapp3.1\Tijd-Op-Scherm.pdb
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\1-Tijd op het scherm\Tijd-Op-Scherm\obj\Debug\netcoreapp3.1\Tijd-Op-Scherm.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\bin\Debug\netcoreapp3.1\Functies return.exe
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\bin\Debug\netcoreapp3.1\Functies return.deps.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\bin\Debug\netcoreapp3.1\Functies return.runtimeconfig.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\bin\Debug\netcoreapp3.1\Functies return.runtimeconfig.dev.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\bin\Debug\netcoreapp3.1\Functies return.dll
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\bin\Debug\netcoreapp3.1\Functies return.pdb
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\obj\Debug\netcoreapp3.1\Functies return.csprojAssemblyReference.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\obj\Debug\netcoreapp3.1\Functies return.AssemblyInfoInputs.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\obj\Debug\netcoreapp3.1\Functies return.AssemblyInfo.cs
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\obj\Debug\netcoreapp3.1\Functies return.csproj.CoreCompileInputs.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\obj\Debug\netcoreapp3.1\Functies return.dll
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\obj\Debug\netcoreapp3.1\Functies return.pdb
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\3-Functies return\Functies return\obj\Debug\netcoreapp3.1\Functies return.genruntimeconfig.cache

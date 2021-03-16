@@ -1,0 +1,13 @@
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\obj\Debug\netcoreapp3.1\Functies.csprojAssemblyReference.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\obj\Debug\netcoreapp3.1\Functies.AssemblyInfoInputs.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\obj\Debug\netcoreapp3.1\Functies.AssemblyInfo.cs
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\obj\Debug\netcoreapp3.1\Functies.csproj.CoreCompileInputs.cache
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\bin\Debug\netcoreapp3.1\Functies.exe
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\bin\Debug\netcoreapp3.1\Functies.deps.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\bin\Debug\netcoreapp3.1\Functies.runtimeconfig.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\bin\Debug\netcoreapp3.1\Functies.runtimeconfig.dev.json
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\bin\Debug\netcoreapp3.1\Functies.dll
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\bin\Debug\netcoreapp3.1\Functies.pdb
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\obj\Debug\netcoreapp3.1\Functies.dll
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\obj\Debug\netcoreapp3.1\Functies.pdb
+C:\Users\snuff\Documents\MA\Bewijzenmap\Leerjaar 1\F2M3-Arcade Mechanics\C#\Les-01\2-Functies\Functies\Functies\obj\Debug\netcoreapp3.1\Functies.genruntimeconfig.cache
